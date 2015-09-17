@@ -1,0 +1,17 @@
+When CP is in a severe form, the surgery may be needed to correct various orthopedic (e.g. scoliosis, tendon disorders) and mobility (significant muscle tightness) problems. The physical therapy and medication are used in order to either postpone the surgery to older age or even totally avoid it.
+
+\subsubsection*{Conclusion}
+It is important to include in a game not only the elements of physical, but also recreational therapy. Developing cognitive skills of child with CP may be as important as the physical part of rehabilitation.
+
+\subsection{Summary}
+To sum up the analysis performed in this section, following information were obtained during it:
+
+\textbf{Target group:}
+\begin{itemize}
+\item \emph{severity level} - light to mild, so that the person is physically available to control the device
+\item \emph{disqualifying symptoms} - strabismus, mild and severe intellectual disability
+\item \emph{expected age} - from 4 to 10 years old, because:
+\begin{itemize}
+\item therapy should be started as early as possible, but also late enough so the child is properly diagnosed and able to control the game. 
+\item increasing the age range would cause problems with game design, because game expectations are different for small children and teens
+\end{itemize}
