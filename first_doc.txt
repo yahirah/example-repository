@@ -15,3 +15,5 @@ To sum up the analysis performed in this section, following information were obt
 \item therapy should be started as early as possible, but also late enough so the child is properly diagnosed and able to control the game. 
 \item increasing the age range would cause problems with game design, because game expectations are different for small children and teens
 \end{itemize}
+
+Changes.
